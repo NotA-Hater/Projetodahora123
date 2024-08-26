@@ -8,20 +8,20 @@
     "avatarImgSrc": "https://media.discordapp.net/attachments/1258595036124283071/1276349440864555109/Snapinsta.app_356910112_571321098534015_6046032230784205779_n_1080.jpg?ex=66c9348c&is=66c7e30c&hm=45315bdebae57ef65ad0201011f31cdea226ff383a75fafc787a4d617aab4ce5&=&format=webp&width=656&height=656",
     "buttons": [
       {
+        "title": "Youtube",
+        "link": "https://www.youtube.com/@PedroNogueiraEdits"
+      },
+      {
         "title": "Instagram",
         "link": "https://www.instagram.com/pedronogueira_edit/"
       },
       {
-        "title": "My Projects",
+        "title": "Fivver",
+        "link": "https://www.fiverr.com/alergic"
+      },
+      {
+        "title": "More of my work",
         "link": "https://www.youtube.com/watch?v=KDHkpFStjFw&list=PLD8sRHWRNhnlFvKmlS53Dqu3GAORDsPsR&pp=iAQB"
-      },
-      {
-        "title": "Github",
-        "link": "https://github.com/xyztavo"
-      },
-      {
-        "title": "See this project code",
-        "link": "https://github.com/xyztavo/DaisyDevLinks"
       }
     ],
     "githubLink": "https://github.com/xyztavo",
@@ -29,6 +29,6 @@
     "linkedInLink": "https://www.linkedin.com/in/gustavo-luna-6a33942aa/",
     "discordLink": "https://discord.com/users/801073563368947742",
     "ytMusicLink": "https://music.youtube.com/channel/UCazPZA5I0goXo85P_LAJAkA?si=FoBmOLIaz_O-aBJd",
-    "footer": "Editor desde 2018"
+    "footer": "Editing since 2018"
   }
   
